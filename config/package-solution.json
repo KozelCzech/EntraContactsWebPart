@@ -3,7 +3,7 @@
   "solution": {
     "name": "entra-contacts-web-part-client-side-solution",
     "id": "cef41037-9b55-4967-a27b-269b828c0858",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
