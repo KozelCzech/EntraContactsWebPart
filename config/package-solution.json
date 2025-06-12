@@ -1,0 +1,46 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "entra-contacts-web-part-client-side-solution",
+    "id": "cef41037-9b55-4967-a27b-269b828c0858",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "webApiPermissionRequests": [
+      {
+        "resource": "Microsoft Graph",
+        "scope": "User.Read.All"
+      }
+    ],
+    "metadata": {
+      "shortDescription": {
+        "default": "EntraContactsWebPart description"
+      },
+      "longDescription": {
+        "default": "EntraContactsWebPart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "entra-contacts-web-part Feature",
+        "description": "The feature that activates elements of the entra-contacts-web-part solution.",
+        "id": "3638004c-9e4b-4d4d-b1b0-fb11b7b6aafe",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/entra-contacts-web-part.sppkg"
+  }
+}

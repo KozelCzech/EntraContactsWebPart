@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "entra-contacts-web-part",
+    "libraryId": "cef41037-9b55-4967-a27b-269b828c0858",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "EntraContactsWebPart",
+    "solutionShortDescription": "EntraContactsWebPart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
